@@ -2,7 +2,7 @@
 
 ## 🔭 I’m currently working on
 
-A ThreeJS Creative Components Library (sponsors-only access) : https://github.com/klevron/threejs-components
+A ThreeJS Creative Components Library (WIP, Sponsors-only access) : https://github.com/klevron/threejs-components
 
 These components can be used with vanilla JS or as framer components.
 
