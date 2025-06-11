@@ -1,13 +1,5 @@
 # Creative and FullStack Developer
 
-## 🔭 I’m currently working on
-
-A ThreeJS Creative Components Library (WIP, Sponsors-only access) : https://github.com/klevron/threejs-components
-
-These components can be used with vanilla JS or as framer components.
-
-Documentation and examples are comings soon.
-
 ## 📫 How to reach me
 
 - [![Codepen][codepen]][codepen-url]
