@@ -1,5 +1,13 @@
 # Creative and FullStack Developer
 
+✨ Framer Components Store : https://tiny-code-lab.lemonsqueezy.com
+
+## Social
+- Codepen : https://codepen.io/soju22
+- X : https://x.com/soju22
+- LinkedIn : https://linkedin.com/in/kevin-l-8865a618/
+
+<!--
 ## 📫 How to reach me
 
 - [![Codepen][codepen]][codepen-url]
@@ -12,6 +20,7 @@
 [twitter-url]: https://x.com/soju22
 [linkedin]: https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social
 [linkedin-url]: https://linkedin.com/in/kevin-l-8865a618/
+-->
 
 <!--
 **klevron/klevron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
