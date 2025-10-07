@@ -1,6 +1,8 @@
 # Creative and FullStack Developer
 
-✨ Framer Components Store : https://tiny-code-lab.lemonsqueezy.com
+✨ Framer Components Store :
+- https://www.framer.com/@kevin-levron/
+- https://tiny-code-lab.lemonsqueezy.com
 
 ## Social
 - Codepen : https://codepen.io/soju22
