@@ -4,6 +4,8 @@
 - https://www.framer.com/@kevin-levron/
 - https://tiny-code-lab.lemonsqueezy.com
 
+[![](https://data.jsdelivr.com/v1/package/npm/threejs-components/badge)](https://www.jsdelivr.com/package/npm/threejs-components)
+
 ## Social
 - Codepen : https://codepen.io/soju22
 - X : https://x.com/soju22
